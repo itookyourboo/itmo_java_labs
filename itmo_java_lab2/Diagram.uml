@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.move.Blizzard</OriginalElement>
+  <nodes>
+    <node x="1212.0" y="80.0">ru.ifmo.se.pokemon.StatusMove</node>
+    <node x="816.0" y="250.0">com.move.Blizzard</node>
+    <node x="0.0" y="415.0">com.pokemon.Cryogonal</node>
+    <node x="948.0" y="250.0">com.move.Bubble</node>
+    <node x="512.0" y="415.0">com.pokemon.Poliwrath</node>
+    <node x="841.5" y="0.0">ru.ifmo.se.pokemon.Move</node>
+    <node x="673.5" y="80.0">ru.ifmo.se.pokemon.DamageMove</node>
+    <node x="156.0" y="250.0">com.move.NightSlash</node>
+    <node x="330.0" y="325.0">ru.ifmo.se.pokemon.Pokemon</node>
+    <node x="1297.8235294117649" y="160.0">com.move.Confide</node>
+    <node x="304.0" y="250.0">com.move.PoisonJab</node>
+    <node x="652.0" y="415.0">com.pokemon.Malamar</node>
+    <node x="444.0" y="250.0">com.move.Facade</node>
+    <node x="560.0" y="250.0">com.move.Slash</node>
+    <node x="1149.8235294117649" y="160.0">com.move.DoubleTeam</node>
+    <node x="1064.0" y="250.0">com.move.Psywave</node>
+    <node x="0.0" y="250.0">com.move.BrutalSwing</node>
+    <node x="801.0" y="325.0">com.Main</node>
+    <node x="993.8235294117648" y="160.0">ru.ifmo.se.pokemon.SpecialMove</node>
+    <node x="356.0" y="160.0">ru.ifmo.se.pokemon.PhysicalMove</node>
+    <node x="1188.0" y="250.0">com.move.Scald</node>
+    <node x="280.0" y="415.0">com.pokemon.Inkay</node>
+    <node x="139.99999999999997" y="415.0">com.pokemon.Poliwhirl</node>
+    <node x="668.0" y="250.0">com.move.DoubleSlap</node>
+    <node x="388.0" y="415.0">com.pokemon.Poliwag</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.pokemon.Cryogonal" target="ru.ifmo.se.pokemon.Pokemon">
+      <point x="0.0" y="-15.0" />
+      <point x="60.0" y="375.0" />
+      <point x="338.66666666666663" y="375.0" />
+      <point x="-43.333333333333314" y="15.0" />
+    </edge>
+    <edge source="com.move.Bubble" target="ru.ifmo.se.pokemon.SpecialMove">
+      <point x="0.0" y="-15.0" />
+      <point x="996.0" y="230.0" />
+      <point x="1044.8235294117649" y="230.0" />
+      <point x="-17.0" y="15.0" />
+    </edge>
+    <edge source="com.move.Psywave" target="ru.ifmo.se.pokemon.SpecialMove">
+      <point x="0.0" y="-15.0" />
+      <point x="1116.0" y="230.0" />
+      <point x="1078.8235294117649" y="230.0" />
+      <point x="17.0" y="15.0" />
+    </edge>
+    <edge source="com.move.Blizzard" target="ru.ifmo.se.pokemon.SpecialMove">
+      <point x="0.0" y="-15.0" />
+      <point x="872.0" y="220.0" />
+      <point x="1010.8235294117648" y="220.0" />
+      <point x="-51.0" y="15.0" />
+    </edge>
+    <edge source="com.move.BrutalSwing" target="ru.ifmo.se.pokemon.PhysicalMove">
+      <point x="0.0" y="-15.0" />
+      <point x="68.0" y="210.0" />
+      <point x="368.0" y="210.0" />
+      <point x="-60.0" y="15.0" />
+    </edge>
+    <edge source="com.move.Scald" target="ru.ifmo.se.pokemon.SpecialMove">
+      <point x="0.0" y="-15.0" />
+      <point x="1232.0" y="220.0" />
+      <point x="1112.8235294117649" y="220.0" />
+      <point x="51.0" y="15.0" />
+    </edge>
+    <edge source="com.pokemon.Poliwag" target="ru.ifmo.se.pokemon.Pokemon">
+      <point x="0.0" y="-15.0" />
+      <point x="440.0" y="395.0" />
+      <point x="390.66666666666663" y="395.0" />
+      <point x="8.666666666666686" y="15.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.PhysicalMove" target="ru.ifmo.se.pokemon.DamageMove">
+      <point x="0.0" y="-15.0" />
+      <point x="428.0" y="135.0" />
+      <point x="705.5" y="135.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.pokemon.Poliwhirl" target="ru.ifmo.se.pokemon.Pokemon">
+      <point x="0.0" y="-15.0" />
+      <point x="199.99999999999997" y="385.0" />
+      <point x="356.0" y="385.0" />
+      <point x="-26.0" y="15.0" />
+    </edge>
+    <edge source="com.pokemon.Inkay" target="ru.ifmo.se.pokemon.Pokemon">
+      <point x="0.0" y="-15.0" />
+      <point x="324.0" y="395.0" />
+      <point x="373.33333333333326" y="395.0" />
+      <point x="-8.666666666666686" y="15.0" />
+    </edge>
+    <edge source="com.pokemon.Poliwrath" target="ru.ifmo.se.pokemon.Pokemon">
+      <point x="0.0" y="-15.0" />
+      <point x="572.0" y="385.0" />
+      <point x="408.0" y="385.0" />
+      <point x="26.0" y="15.0" />
+    </edge>
+    <edge source="com.pokemon.Malamar" target="ru.ifmo.se.pokemon.Pokemon">
+      <point x="0.0" y="-15.0" />
+      <point x="704.0" y="375.0" />
+      <point x="425.33333333333326" y="375.0" />
+      <point x="43.333333333333314" y="15.0" />
+    </edge>
+    <edge source="com.move.Facade" target="ru.ifmo.se.pokemon.PhysicalMove">
+      <point x="0.0" y="-15.0" />
+      <point x="492.0" y="230.0" />
+      <point x="440.0" y="230.0" />
+      <point x="12.0" y="15.0" />
+    </edge>
+    <edge source="com.move.DoubleSlap" target="ru.ifmo.se.pokemon.PhysicalMove">
+      <point x="0.0" y="-15.0" />
+      <point x="732.0" y="210.0" />
+      <point x="488.0" y="210.0" />
+      <point x="60.0" y="15.0" />
+    </edge>
+    <edge source="com.move.Confide" target="ru.ifmo.se.pokemon.StatusMove">
+      <point x="0.0" y="-15.0" />
+      <point x="1349.8235294117649" y="135.0" />
+      <point x="1308.0" y="135.0" />
+      <point x="32.0" y="15.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.StatusMove" target="ru.ifmo.se.pokemon.Move">
+      <point x="0.0" y="-15.0" />
+      <point x="1276.0" y="55.0" />
+      <point x="901.5" y="55.0" />
+      <point x="20.0" y="15.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.SpecialMove" target="ru.ifmo.se.pokemon.DamageMove">
+      <point x="0.0" y="-15.0" />
+      <point x="1061.8235294117649" y="135.0" />
+      <point x="769.5" y="135.0" />
+      <point x="32.0" y="15.0" />
+    </edge>
+    <edge source="com.move.PoisonJab" target="ru.ifmo.se.pokemon.PhysicalMove">
+      <point x="0.0" y="-15.0" />
+      <point x="364.0" y="230.0" />
+      <point x="416.0" y="230.0" />
+      <point x="-12.0" y="15.0" />
+    </edge>
+    <edge source="com.move.Slash" target="ru.ifmo.se.pokemon.PhysicalMove">
+      <point x="0.0" y="-15.0" />
+      <point x="604.0" y="220.0" />
+      <point x="464.0" y="220.0" />
+      <point x="36.0" y="15.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.DamageMove" target="ru.ifmo.se.pokemon.Move">
+      <point x="0.0" y="-15.0" />
+      <point x="737.5" y="55.0" />
+      <point x="861.5" y="55.0" />
+      <point x="-20.0" y="15.0" />
+    </edge>
+    <edge source="com.move.DoubleTeam" target="ru.ifmo.se.pokemon.StatusMove">
+      <point x="0.0" y="-15.0" />
+      <point x="1213.8235294117649" y="135.0" />
+      <point x="1244.0" y="135.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.move.NightSlash" target="ru.ifmo.se.pokemon.PhysicalMove">
+      <point x="0.0" y="-15.0" />
+      <point x="220.0" y="220.0" />
+      <point x="392.0" y="220.0" />
+      <point x="-36.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6754629629629632" x="616.933701241691" y="259.9511977925499" />
+  <SelectedNodes>
+    <node>com.Main</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
